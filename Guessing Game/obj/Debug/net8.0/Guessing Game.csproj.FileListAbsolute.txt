@@ -1,0 +1,14 @@
+E:\C#\C# Beginner Projects\Guessing Game\bin\Debug\net8.0\Guessing Game.exe
+E:\C#\C# Beginner Projects\Guessing Game\bin\Debug\net8.0\Guessing Game.deps.json
+E:\C#\C# Beginner Projects\Guessing Game\bin\Debug\net8.0\Guessing Game.runtimeconfig.json
+E:\C#\C# Beginner Projects\Guessing Game\bin\Debug\net8.0\Guessing Game.dll
+E:\C#\C# Beginner Projects\Guessing Game\bin\Debug\net8.0\Guessing Game.pdb
+E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\Guessing Game.AssemblyInfoInputs.cache
+E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\Guessing Game.AssemblyInfo.cs
+E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\Guessing Game.csproj.CoreCompileInputs.cache
+E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\Guessing Game.dll
+E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\refint\Guessing Game.dll
+E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\Guessing Game.pdb
+E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\Guessing Game.genruntimeconfig.cache
+E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\ref\Guessing Game.dll
