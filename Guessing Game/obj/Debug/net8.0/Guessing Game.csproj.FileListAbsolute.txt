@@ -12,3 +12,4 @@ E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\refint\Guessing Game.d
 E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\Guessing Game.pdb
 E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\Guessing Game.genruntimeconfig.cache
 E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\ref\Guessing Game.dll
+E:\C#\C# Beginner Projects\Guessing Game\obj\Debug\net8.0\Guessing Game.sourcelink.json
